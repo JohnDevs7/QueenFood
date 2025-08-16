@@ -29,7 +29,5 @@ Com ele, clientes podem reservar mesas em restaurantes de sua escolha, gerenciar
 
 ---
 
-## 🚀 Como Executar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/queenfood.git
+## 😁 OPS
+O back end, não será colocado junto ao projecto devido alguns mano, se que me entendi😁😁
